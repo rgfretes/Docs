@@ -4,7 +4,7 @@ Contains general documentation about the system
 Environment setup
 =========
 
-For developing this system you will need to setup your local environment with a specific set of tools and technologies. Check [these documents](Enviroment) if you are interested.
+For developing this system you will need to setup your local environment with a specific set of tools and technologies. Check [these documents](tree/master/Environment) if you are interested.
 
 License
 -------------
