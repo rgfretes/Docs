@@ -12,7 +12,7 @@ Setup
 
 3. From the command line execute:
   ```shell
-  $ npm install --g gulp
+  $ npm install -g gulp
   $ npm install -g bower
   $ cd [Client app root folder]
   $ npm install
