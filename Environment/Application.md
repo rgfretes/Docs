@@ -1,7 +1,7 @@
 Environment setup - Application
 =========
 
-Here we expose the specific tools and technologies *needed* for developing the [client app](https://github.com/AdrianDeLasSierras/Application).
+Here we expose the specific tools and technologies **needed** for developing the [client app](https://github.com/AdrianDeLasSierras/Application).
 
 Setup
 -------------
@@ -11,21 +11,13 @@ Setup
 2. Clone the [client app](https://github.com/AdrianDeLasSierras/Application) repo.
 
 3. From the command line execute:
-```shell
-$ npm install --global gulp
-```
-
-4. From the command line execute:
-```shell
-$ cd [Client app root folder]
-$ npm install
-```
-
-5. From the command line execute:
-```shell
-$ cd [Client app root folder]
-$ bower install
-```
+  ```shell
+  $ npm install --g gulp
+  $ npm install -g bower
+  $ cd [Client app root folder]
+  $ npm install
+  $ bower install
+  ```
 
 License
 -------------
