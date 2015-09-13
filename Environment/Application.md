@@ -12,6 +12,8 @@ Setup
 
 3. From the command line execute:
   ```shell
+  $ npm config set spin=false
+  $ npm config set loglevel=http
   $ npm install -g gulp
   $ npm install -g bower
   $ cd [Client app root folder]
