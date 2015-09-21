@@ -20,6 +20,10 @@ Setup
 
 7. Import the project into STS.
 
+8. Run *gradle build* either from the command line or from the STS.
+
+9. Download and install [MySQL](http://www.mysql.com/downloads/) version 5.6.26.0.
+
 License
 -------------
 
